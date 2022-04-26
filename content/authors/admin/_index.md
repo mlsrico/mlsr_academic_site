@@ -44,18 +44,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=KvRCeMwAAAAJ&hl=es
+  - icon: linkedin
+    icon_pack: fab
   - icon: github
     icon_pack: fab
     link: https://github.com/mlsrico
-  - icon: linkedin
-    icon_pack: fab
     link: https://www.linkedin.com/in/marina-sánchez-rico-ab92b814a/
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-1121-8641
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=KvRCeMwAAAAJ&hl=es
   
 
 # Link to a PDF of your resume/CV.

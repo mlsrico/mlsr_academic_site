@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marina Sánchez-Rico
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Biostatistician
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Assistance publique - Hôpitaux de Paris
+    url: https://www.aphp.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include methodology, epidemiology and applied statistics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Epidemiology
+  - Biostatistics
+  - Classic statistics
+  - Machine learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Methodology
+      institution: Universidad Complutense de Madrid
+      year: 2022
+    - course: MEng in Methodology in Behavioral and Health Sciences
+      institution: Universidad Complutense de Madrid
+      year: 2018
+    - course: BSc in Psychology
+      institution: Universidad Complutense de Madrid
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +44,19 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=KvRCeMwAAAAJ&hl=es
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mlsrico
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/marina-sánchez-rico-ab92b814a/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-1121-8641
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +72,10 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! I'm Marina Sánchez-Rico, and I'm a biostatistician and researcher for the
+[__Assistance Publique-Hôpitaux de Paris__](https://www.aphp.fr). I'm a psychologist 
+in formation, and I specialized in healthcare research, particularly in methodology 
+and applied statistics. I am the main statistician in my research team, and I have 
+recently obtained my PhD through my thesis [Diagnosis and Prognosis in Clinical Databases through Unsupervised Statistical Techniques](https://drive.google.com/file/d/1PhvtspBP9C6e8U6zA01eIuvU74g5_RwI/view?usp=sharing) from [__Complutense University of Madrid__](https://ucm.es/english).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -10,7 +10,7 @@ role: Biostatistician
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Assistance publique - Hôpitaux de Paris
+  - name: AP-HP
     url: https://www.aphp.fr
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,6 +46,7 @@ social:
     link: '/#contact'
   - icon: linkedin
     icon_pack: fab
+    link: https://www.linkedin.com/in/marina-sánchez-rico-ab92b814a/
   - icon: github
     icon_pack: fab
     link: https://github.com/mlsrico

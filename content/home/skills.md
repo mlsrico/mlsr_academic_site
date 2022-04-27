@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: Highly experienced with observational research designs
-    icon: chart-network
+    icon: chart
     icon_pack: fas
     name: Methodology
 # Uncomment to use emoji icons.

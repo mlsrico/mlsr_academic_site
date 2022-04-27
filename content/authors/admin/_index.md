@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marina Sánchez-Rico
+title: Marina SR
 
 # Is this the primary user of the site?
 superuser: true
@@ -76,6 +76,6 @@ Hi! I'm Marina Sánchez-Rico, and I'm a biostatistician and researcher in the Co
 Celton hospital, for the Assistance Publique-Hôpitaux de Paris (AP-HP). I'm a psychologist 
 in formation, and I specialized in healthcare research, particularly in methodology 
 and applied statistics. I am the main statistician in my research team, and I have 
-recently obtained my PhD through my thesis [Diagnosis and Prognosis in Clinical Databases through Unsupervised Statistical Techniques](https://drive.google.com/file/d/1PhvtspBP9C6e8U6zA01eIuvU74g5_RwI/view?usp=sharing) from [__Complutense University of Madrid__](https://ucm.es/english).
+recently obtained my PhD through my thesis [Diagnosis and Prognosis in Clinical Databases through Unsupervised Statistical Techniques](https://drive.google.com/file/d/1PhvtspBP9C6e8U6zA01eIuvU74g5_RwI/view?usp=sharing) from Complutense University of Madrid.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -33,7 +33,7 @@ content:
     country: France
     country_code: FR
   contact_links:
-    - icon: skype
+    - icon: video
       icon_pack: fas
       name: Message me in Skype
       link: 'https://join.skype.com/invite/lpwUrKIODmWp'

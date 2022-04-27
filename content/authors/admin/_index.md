@@ -50,7 +50,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mlsrico
-    link: https://www.linkedin.com/in/marina-sánchez-rico-ab92b814a/
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-1121-8641

@@ -1,8 +1,6 @@
 ---
 # Display name
-title: Marina 
-
-Sánchez-Rico
+title: Marina Sánchez-Rico
 
 # Is this the primary user of the site?
 superuser: true
